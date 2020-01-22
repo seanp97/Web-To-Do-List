@@ -1,0 +1,22 @@
+li {
+    cursor: pointer;
+    font-size: 2vh;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.LineThrough {
+    text-decoration: line-through;
+}
+
+#list {
+    margin-top: 2vh;
+}
+
+p {
+    font-weight: 600;
+}
+
+.container {
+    margin-top: 5vh;
+}
